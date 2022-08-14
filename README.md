@@ -14,7 +14,11 @@
  
 <div> 
  <a href="https://www.linkedin.com/in/kalebe-rodrigues-szlachta-918357205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://t.co/aaqcrErFxy?amp=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>  <a href="https://t.co/aaqcrErFxy?amp=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kalebe-rodrigues-szlachta-918357205" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/kalebe-rodrigues-szlachta-918357205?trk=profile-badge">Kalebe Rodrigues Szlachta</a></div>
+              
+ 
+ 
   <a href="https://instagram.com/kalebe_rs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/kalebers" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/kalebe_rs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 

@@ -14,8 +14,6 @@
  
 <div> 
  <a href="https://www.linkedin.com/in/kalebe-rodrigues-szlachta-918357205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>  <a href="https://t.co/aaqcrErFxy?amp=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kalebe-rodrigues-szlachta-918357205" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/kalebe-rodrigues-szlachta-918357205?trk=profile-badge">Kalebe Rodrigues Szlachta</a></div>
               
  
  

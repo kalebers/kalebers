@@ -1,8 +1,7 @@
 ### Hey guys! 🖖
-- 💻 I’m currently working on Data Science Projects. My final project in my university, Pontifícia Universidade Católica do Paraná - PUCPR, was Classifying High-Dimensional Data Streams Using Adaptative Learning and t-Stochastic Neighborhood Embedding (Parametric t-SNE), as follows in the repository bellow (Data_Streams_Parametric_t-SNE).
-- 🌱 I’m currently learning Data Science with Python and frameworks related.
-- ✉️ How to reach me: kalebeszlachta@gmail.com
-- 🎸 Fun fact: On my spare time you'll see me playing guitar, video games or taking some photos xD 
+- 💻 I’m currently working on Data Science and software development Projects.
+- ✉️ How to reach me: kalebeszlachta@gmail.com 
+- 🎸 Fun fact: On my spare time you'll see me playing guitar, video games, taking some photos, reading or studying mechanical engineering for fun xD 
 
  <div>
   <a href="https://github.com/kalebers"> 

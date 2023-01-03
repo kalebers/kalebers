@@ -1,7 +1,7 @@
 ### Hey guys! 🖖
-- 💻 I’m currently working on Data Science and software development Projects.
+- 💻 I’m currently working on Software development and Data Science projects.
 - ✉️ How to reach me: kalebeszlachta@gmail.com 
-- 🎸 Fun fact: On my spare time you'll see me playing guitar, video games, taking some photos, reading or studying mechanical engineering for fun
+- 🎸 Fun fact: On my spare time you'll see me playing guitar, video games, taking some photos, reading, biking or studying mechanical engineering for fun
 
  <div>
   <a href="https://github.com/kalebers">

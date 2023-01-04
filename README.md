@@ -5,7 +5,7 @@
 
  <div>
   <a href="https://github.com/kalebers">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalebers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&langs_count=10&theme=dark"/>
 </div>
   

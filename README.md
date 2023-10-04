@@ -1,5 +1,5 @@
 ### Hey guys! 🖖
-- 💻 I’m currently working on Software development and Data Science/dashboarding projects 
+- 💻 I’m currently working on Software development and Data Science/dashboarding projects 🇩🇪 🇫🇷
 - ✉️ How to reach me: kalebeszlachta@gmail.com 
 - 🎸 Curiosity: On my spare time you'll see me playing guitar, reading, taking some photos, biking or studying mechanical engineering for fun
 

@@ -4,7 +4,7 @@
 - 🎸 Curiosity: On my spare time you'll see me playing guitar, reading, taking some photos, biking or studying mechanical engineering for fun
 
  <div>
-  <a href="https://github.com/kalebers">
+  <a href="https://github.com/kalebers"></a>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&langs_count=10&theme=dark"/>
 </div>

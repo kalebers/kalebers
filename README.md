@@ -1,5 +1,5 @@
 ### Hey guys! 🖖
-- 💻 I’m working on Software Development and Data Science/dashboarding projects 🇩🇪 🇫🇷
+- 💻 I’m working on Software Development and Data Science/Dashboarding projects 🇩🇪 🇫🇷
 - ✉️ How to reach me: kalebeszlachta@gmail.com 
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking or studying mechanical engineering for fun
 
@@ -17,7 +17,4 @@
  	<a href="https://www.twitch.tv/kalebers" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-#<p align="left"> 
-#  <b>Visitor count</b><br>
- # <img src="https://profile-counter.glitch.me/kalebers/count.svg" />
-#</p>
+

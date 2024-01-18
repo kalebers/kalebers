@@ -9,6 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&langs_count=20&theme=dark&count_private=true""/>
 
 </div>
+
+<p align="center"> 
+  <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/kalebers/count.svg" />
+</p>
   
   ##
  

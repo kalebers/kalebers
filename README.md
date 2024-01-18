@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/kalebers"></a>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=normal&langs_count=15&theme=dark&count_private=true""/>
+  <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&langs_count=15&theme=dark&count_private=true""/>
 
 </div>
 

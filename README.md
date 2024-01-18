@@ -10,14 +10,8 @@
  <a href="https://github.com/kalebers">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&langs_count=15&theme=dark&count_private=true""/>
  </a>
-
 </div>
 
-<p align="center"> 
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/kalebers/count.svg" />
-</p>
-  
   ##
  
 <div> 

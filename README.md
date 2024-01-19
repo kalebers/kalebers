@@ -12,11 +12,6 @@
  </a>
 </div>
 
-<p align="center"> 
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/kalebers/count.svg" />
-</p>
-
   ##
  
 <div> 

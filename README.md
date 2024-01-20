@@ -8,7 +8,7 @@
    <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </a>
  <a href="https://github.com/kalebers">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&langs_count=15)
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebers&layout=compact&langs_count=15&card_width=320" />
  </a>
 </div>
 

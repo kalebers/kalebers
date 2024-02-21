@@ -1,7 +1,8 @@
 ### Hey guys! 🖖
 🇧🇷 🇩🇪 🇫🇷
-- 💻 I’m working on Software Development and Data Science/Dashboarding projects
-- ✉️  How to reach me: kalebeszlachta@gmail.com 
+- 💻 I’m working as Software Engineer and Data Scientist.
+- 📚 Stack and tools: Python, Java, C++, C#, GO, JavaScript, HTML, SQL, Shell, Splunk, Tableau.
+- ✉️ How to reach me: kalebeszlachta@gmail.com 
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking or studying mechanical engineering for fun (very passionate about cars and racing). If you have some projects that I can help, please feel free to contact me! 
 
  <div>

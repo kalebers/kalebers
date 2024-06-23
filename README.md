@@ -7,9 +7,9 @@
 
  <div>
   <a href="https://github.com/kalebers">
-   <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+   <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <a href="https://github.com/kalebers">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=15&card_width=250" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=15&card_width=250"/>
  </a>
 </div>
 

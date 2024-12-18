@@ -4,7 +4,8 @@
 - 💻 I’m a Software Engineer and Data Scientist
 - 📚 Stack and tools: Python, Java, C#, C++, GO, JavaScript, HTML, CSS, SQL, Shell, GCP, AWS, Splunk, Tableau
 - ✉️ How to reach me: kalebeszlachta@gmail.com
-- 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun (very passionate about cars and racing). If you have some projects that I can help with, please feel free to contact me! 
+- 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun (very passionate about cars and racing).
+- If you have some projects that I could help with, please feel free to contact me! Love to help the open source community! 
 
 <div align="center">
   <a href="https://github.com/kalebers">

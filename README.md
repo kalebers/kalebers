@@ -1,7 +1,7 @@
 ### Hey guys! 🖖
 🇧🇷 🇩🇪 🇫🇷
 
-- 💻 I’m a Software Engineer and Data Scientist
+- 💻 I’m a brazilian Software Engineer and Data Scientist located in Germany 
 - 📚 Stack and tools: Python, Java, C#, C++, GO, JavaScript, HTML, CSS, SQL, Shell, GCP, AWS, Splunk, Tableau
 - ✉️ How to reach me: kalebeszlachta@gmail.com
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun. I'm very passionate about cars and racing

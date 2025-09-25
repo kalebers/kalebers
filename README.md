@@ -1,10 +1,10 @@
-### Hey guys! 🖖
+### Hello from the other side! 🖖
 🇧🇷 🇩🇪 🇫🇷
 
 - 💻 I’m a brazilian Software Engineer and Data Scientist working and living in Germany 
 - 📚 Stack and tools: Python, Java, C#, C++, GO, JavaScript, HTML, CSS, SQL, Shell, GCP, AWS, Splunk, Tableau
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun! (I like to study things by myself)
-- 📖 Currently, remotely doing my Masters in CyberSecurity by Pontifical Catholic University of Parana (PUCPR)
+- 📖 Currently, remotely doing my Masters in CyberSecurity at Pontifical Catholic University of Parana (PUCPR)
 - If you have some projects that I could help with, please feel free to contact me! Love to help the open source community!
 - ✉️ How to reach me: kalebeszlachta@gmail.com
 

@@ -1,11 +1,22 @@
-### Hello from the other side! 🖖
+### Software Engineer specialized in Cybersecurity and Data Engineering 
 🇧🇷 🇩🇪 🇫🇷
 
-- 💻 I’m a brazilian Software Engineer and Data Scientist working and living in Germany 
-- 📚 Stack and tools: Python, Java, C#, C++, GO, JavaScript, HTML, CSS, SQL, Shell, GCP, AWS, Splunk, Tableau, Machine Learning (For data science and cybersecurity)
-- 📖 Currently, remotely doing my Masters in CyberSecurity at Pontifical Catholic University of Parana (PUCPR)
+- 💻 Brazilian Software Engineer based in Germany, specialized in Cybersecurity and Data Engineering.
+  Experienced in building secure, scalable solutions across cloud, data pipelines, and monitoring systems.
+----
+- 📚 Stack and tools:
+    - 💻 Core programming: Python, Java, C#, C++, Go, JavaScript, SQL
+    - 🌐 Web & Frontend: HTML, CSS, JavaScript
+    - ☁️ Cloud & DevOps: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+    - 🔐 Cybersecurity & Monitoring: Splunk, Machine Learning applied to cybersecurity
+    - 📊 Data Science & Analytics: Tableau, Machine Learning (for data science)
+----
+- 📖 M.Sc. in Cybersecurity (in progress) at Pontifical Catholic University of Parana (PUCPR), Remote from Germany
+----
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun! (I like to study things by myself)
-- If you have some projects that I could help with, please feel free to contact me! Love to help the open source community!
+----
+- Open to collaborations and remote opportunities. I enjoy contributing to open source and working on impactful projects.!
+----
 - ✉️ How to reach me: kalebeszlachta@gmail.com
 
 <div align="center">

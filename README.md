@@ -15,7 +15,7 @@
 ----
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun! (I like to study things by myself)
 ----
-- Open to collaborations and remote opportunities. I enjoy contributing to open source and working on impactful projects.!
+- Open to collaborations and remote opportunities. I enjoy contributing to open source and working on impactful projects!
 ----
 - ✉️ How to reach me: kalebeszlachta@gmail.com
 

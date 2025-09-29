@@ -11,7 +11,7 @@
     - 🔐 Cybersecurity & Monitoring: Splunk, Machine Learning applied to cybersecurity
     - 📊 Data Science & Analytics: Tableau, Machine Learning (for data science)
 ----
-- 📖 M.Sc. in Cybersecurity (in progress) at Pontifical Catholic University of Parana (PUCPR), Remote from Germany
+- 📖 M.Sc. in Cybersecurity (2025-2027) at Pontifical Catholic University of Parana (PUCPR), Remote from Germany
 ----
 - 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun! (I like to study things by myself)
 ----

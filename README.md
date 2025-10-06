@@ -2,7 +2,7 @@
 🇧🇷 🇩🇪 🇫🇷
 
 - 💻 Brazilian Software Engineer based in Germany, specialized in Cybersecurity and Data Engineering.
-  Experienced in building secure, scalable solutions across cloud, data pipelines, and monitoring systems.
+  Experienced in building secure code, scalable solutions across cloud, data pipelines, and monitoring systems.
 ----
 - 📚 Stack and tools:
     - 💻 Core programming: Python, Java, C#, C++, Go, JavaScript, SQL

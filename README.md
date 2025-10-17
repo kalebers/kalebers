@@ -1,7 +1,7 @@
-### Software Engineer specialized in Software Development, Cybersecurity and Data Engineering 
+### Software Engineer specialized in Cybersecurity and Data Engineering 
 🇧🇷 🇩🇪 🇫🇷
 
-- 💻 Brazilian Software Engineer based in Germany, specialized in Software Development, Cybersecurity and Data Engineering.
+- 💻 Brazilian Software Engineer based in Germany, specialized in Cybersecurity and Data Engineering.
   Experienced in building softwares, secure code, scalable solutions across cloud, data pipelines, and monitoring systems.
 ----
 - 📚 Stack and tools:

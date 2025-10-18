@@ -1,23 +1,34 @@
-### Software Engineer specialized in Cybersecurity and Data Engineering 
+### Software Engineer — Cybersecurity, Data Science & Scalable Systems  
 🇧🇷 🇩🇪 🇫🇷
 
-- 💻 Brazilian Software Engineer based in Germany, specialized in Cybersecurity and Data Engineering.
-  Experienced in building softwares, secure code, scalable solutions across cloud, data pipelines, and monitoring systems.
-----
-- 📚 Stack and tools:
-    - 💻 Core programming: Python, Java, C#, C++, Go, JavaScript, SQL
-    - 🌐 Web & Frontend: HTML, CSS, JavaScript
-    - ☁️ Cloud & DevOps: Google Cloud Platform (GCP), Amazon Web Services (AWS)
-    - 🔐 Cybersecurity & Monitoring: Splunk, Machine Learning applied to cybersecurity
-    - 📊 Data Science & Analytics: Tableau, Machine Learning (for data science)
-----
-- 📖 M.Sc. in Cybersecurity (2025-2027) at Pontifical Catholic University of Parana (PUCPR), Remote from Germany
-----
-- 🎸 Who am I: On my spare time you'll see me playing guitar, reading, taking some photos, biking, or studying mechanical engineering for fun! (I like to study things by myself)
-----
-- Open to collaborations and remote opportunities. I enjoy contributing to open source and working on impactful projects!
-----
-- ✉️ How to reach me: kalebeszlachta@gmail.com
+💻 Brazilian Software Engineer based in Germany, working at the intersection of **Software Development**, **Data Engineering**, and **Cybersecurity**.  
+I build secure and scalable solutions for modern infrastructures, from data pipelines and cloud systems to monitoring and threat detection tools.
+
+---
+
+#### 🧰 Tech Stack
+- **Programming:** Python, Java, C#, C++, Go, JavaScript, SQL  
+- **Web:** HTML, CSS, JavaScript  
+- **Cloud & DevOps:** GCP, AWS  
+- **Cybersecurity & Monitoring:** Splunk, ML for Cybersecurity  
+- **Data Science & Analytics:** Tableau, ML for Data Science  
+
+---
+
+🎓 **M.Sc. in Cybersecurity (2025–2027)** — Pontifical Catholic University of Paraná (PUCPR), Remote from Germany  
+
+---
+
+🎸 **About me**  
+In my spare time, you’ll find me playing guitar, reading, taking photos, biking, or exploring mechanical engineering just for fun. I love learning new things independently.
+
+---
+
+🤝 **Open to collaborations and remote opportunities** — especially open-source and impactful projects.
+
+📫 **Reach me:** [kalebeszlachta@gmail.com](mailto:kalebeszlachta@gmail.com)
+
+---
 
 <div align="center">
   <a href="https://github.com/kalebers">
@@ -28,7 +39,9 @@
   </a>
 </div>
 
-## Connect with me:
+---
+
+## 🌐 Connect with me
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/kalebeszlachta" target="_blank">

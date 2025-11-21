@@ -1,7 +1,7 @@
 ### Software Engineer — Cybersecurity, Data Science & Scalable Systems  
 🇧🇷 🇩🇪 🇫🇷
 
-💻 Brazilian Software Engineer based in Germany, working at the intersection of **Software Development**, **Data Engineering**, and **Cybersecurity**.  
+💻 Brazilian Software Engineer, working at the intersection of **Software Development**, **Data Engineering**, and **Cybersecurity**.  
 I build secure and scalable solutions for modern infrastructures, from data pipelines and cloud systems to monitoring and threat detection tools.
 
 ---

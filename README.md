@@ -15,7 +15,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 ---
 
-🎓 **M.Sc. in Cybersecurity (2025–2027)** — Pontifical Catholic University of Paraná (PUCPR), Remote from Germany  
+🎓 **M.Sc. in Cybersecurity (2025–2027)** — Pontifical Catholic University of Paraná (PUCPR)  
 
 ---
 

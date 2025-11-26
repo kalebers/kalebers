@@ -1,4 +1,4 @@
-### Software Engineer — Cybersecurity, Data Science & Scalable Systems  
+### Software Engineer — Cybersecurity, Data Science & Scalable Systems   
 🇧🇷 🇩🇪 🇫🇷
 
 💻 Brazilian Software Engineer, working at the intersection of **Software Development**, **Data Engineering**, and **Cybersecurity**.  
@@ -19,8 +19,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 ---
 
-🎸 **About me**  
-In my spare time, you’ll find me playing guitar, reading, taking photos, biking, or exploring mechanical engineering just for fun. I love learning new things independently.
+🎸 **About me** In my spare time, you’ll find me playing guitar, reading, taking photos, biking, or exploring mechanical engineering just for fun. I love learning new things independently.
 
 ---
 
@@ -35,7 +34,7 @@ In my spare time, you’ll find me playing guitar, reading, taking photos, bikin
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/kalebers">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=15&card_width=320"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=15&card_width=320"/>
   </a>
 </div>
 

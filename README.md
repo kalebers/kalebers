@@ -23,7 +23,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 ---
 
-🤝 **Open to collaborations and remote opportunities** — especially open-source and impactful projects.
+🤝 **Open to collaborations and remote opportunities**.
 
 📫 **Reach me:** [kalebeszlachta@gmail.com](mailto:kalebeszlachta@gmail.com)
 

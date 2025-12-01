@@ -31,10 +31,10 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 <div align="center">
   <a href="https://github.com/kalebers">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
   </a>
   <a href="https://github.com/kalebers">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=15&card_width=250&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=15&card_width=320&count_private=true&include_all_commits=true&v=2"/>
   </a>
 </div>
 

@@ -50,6 +50,6 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
   <a href="https://kalebers.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-8A2BE2&logo=portfolio&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/portfolio-8A2BE2&logo=Portfolio&logoColor=white" alt="Portfolio">
   </a>
 </div>

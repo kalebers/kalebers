@@ -31,7 +31,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 <div align="center">
   <a href="https://github.com/kalebers">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&card_width=250"/>
   </a>
 
   <a href="https://github.com/kalebers">

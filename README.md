@@ -28,7 +28,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 📫 **Reach me:** [kalebeszlachta@gmail.com](mailto:kalebeszlachta@gmail.com)
 
 ---
-
+<!--
 <div align="center">
   <a href="https://github.com/kalebers">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&card_width=250"/>
@@ -37,8 +37,8 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
   <a href="https://github.com/kalebers">
    <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&theme=tokyonight&langs_count=10&card_width=250" /> ---> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=10&card_width=250&count_private=true&include_all_commits=true&v=2"/> 
-  </a>
-</div>
+<!-- </a> ---> 
+<!-- </div> ---> 
 ---
 
 ## 🌐 Connect with me

@@ -19,7 +19,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 ---
 
-🎸 **About me** In my spare time, you’ll find me playing guitar, reading, taking photos, biking, or exploring mechanical engineering just for fun. I love learning new things independently.
+🎸 **About me**: In my spare time, you’ll find me playing guitar, reading, taking photos, biking, or exploring mechanical engineering just for fun. I love learning new things independently.
 
 ---
 
@@ -27,7 +27,7 @@ I build secure and scalable solutions for modern infrastructures, from data pipe
 
 📫 **Reach me:** [kalebeszlachta@gmail.com](mailto:kalebeszlachta@gmail.com)
 
----
+<!-- --- --->
 <!--<div align="center"> --->
 <!--  <a href="https://github.com/kalebers"> --->
  <!--   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&card_width=250"/> --->

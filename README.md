@@ -1,4 +1,4 @@
-# Kalebeszlachta — Generalist Software Engineer
+# Kalebe Szlachta — Generalist Software Engineer
 
 🇧🇷 🇩🇪 🇫🇷
 
@@ -9,7 +9,7 @@ I enjoy working across the stack—from automation and data pipelines to observa
 ## Areas of focus
 
 - **Cybersecurity:** security engineering, monitoring, threat detection, and ML for cybersecurity
-- **Software engineering:** Python, Java, C#, C++, Go, JavaScript, and SQL
+- **Software engineering:** Python, Java, Spring Boot, C#, C++, Go, JavaScript, and SQL
 - **Cloud and infrastructure:** AWS, GCP, scalable systems, and DevOps practices
 - **Data and analytics:** data engineering, machine learning, and Tableau
 - **Web development:** HTML, CSS, and JavaScript
@@ -20,7 +20,7 @@ I enjoy working across the stack—from automation and data pipelines to observa
 
 ## Beyond technology
 
-Outside of work, I enjoy playing guitar, reading, photography, biking, and exploring mechanical engineering. I’m a curious, independent learner who likes connecting ideas across different fields.
+Outside work, I enjoy playing guitar, reading, taking photos, biking, and exploring mechanical engineering. I’m a curious, independent learner who likes connecting ideas across different fields.
 
 ## Collaboration
 

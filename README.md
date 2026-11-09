@@ -1,55 +1,43 @@
-### Software Engineer — Cybersecurity, Data Science & Scalable Systems   
+# Kalebeszlachta — Generalist Software Engineer
+
 🇧🇷 🇩🇪 🇫🇷
 
-💻 Brazilian Software Engineer, working at the intersection of **Software Development**, **Data Engineering**, and **Cybersecurity**.  
-I build secure and scalable solutions for modern infrastructures, from data pipelines and cloud systems to monitoring and threat detection tools.
+I’m a **generalist software engineer** with experience across software development, data engineering, cloud infrastructure, and systems design. I’m currently focused on **cybersecurity**, building secure, reliable, and scalable solutions for modern environments.
 
----
+I enjoy working across the stack—from automation and data pipelines to observability, threat detection, and secure software delivery—and learning whatever is needed to solve meaningful problems well.
 
-#### 🧰 Tech Stack
-- **Programming:** Python, Java, C#, C++, Go, JavaScript, SQL  
-- **Web:** HTML, CSS, JavaScript  
-- **Cloud & DevOps:** GCP, AWS  
-- **Cybersecurity & Monitoring:** Splunk, ML for Cybersecurity  
-- **Data Science & Analytics:** Tableau, ML for Data Science  
+## Areas of focus
 
----
+- **Cybersecurity:** security engineering, monitoring, threat detection, and ML for cybersecurity
+- **Software engineering:** Python, Java, C#, C++, Go, JavaScript, and SQL
+- **Cloud and infrastructure:** AWS, GCP, scalable systems, and DevOps practices
+- **Data and analytics:** data engineering, machine learning, and Tableau
+- **Web development:** HTML, CSS, and JavaScript
 
-🎓 **M.Sc. in Cybersecurity (2025–2027)** — Pontifical Catholic University of Paraná (PUCPR)  
+## Education
 
----
+🎓 **M.Sc. in Cybersecurity (2025–2027)** — Pontifical Catholic University of Paraná (PUCPR)
 
-🎸 **About me**: In my spare time, you’ll find me playing guitar, reading, taking photos, biking, or exploring mechanical engineering just for fun. I love learning new things independently.
+## Beyond technology
 
----
+Outside of work, I enjoy playing guitar, reading, photography, biking, and exploring mechanical engineering. I’m a curious, independent learner who likes connecting ideas across different fields.
 
-🤝 **Open to collaborations and remote opportunities**.
+## Collaboration
+
+🤝 Open to collaborating on thoughtful software, security, and data projects, as well as remote opportunities.
 
 📫 **Reach me:** [kalebeszlachta@gmail.com](mailto:kalebeszlachta@gmail.com)
-
-<!-- --- --->
-<!--<div align="center"> --->
-<!--  <a href="https://github.com/kalebers"> --->
- <!--   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2&card_width=250"/> --->
- <!-- </a> --->
-
-<!--  <a href="https://github.com/kalebers"> --->
-   <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebers&layout=compact&theme=tokyonight&langs_count=10&card_width=250" /> ---> 
- <!--   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kalebers&layout=compact&theme=tokyonight&langs_count=10&card_width=250&count_private=true&include_all_commits=true&v=2"/> --->
-<!-- </a> ---> 
-<!-- </div> ---> 
----
 
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kalebeszlachta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.twitch.tv/kalebers" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="https://kalebers.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-228B22?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio">
-  </a>
+  <a href="https://www.linkedin.com/in/kalebeszlachta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.twitch.tv/kalebers" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+  <a href="https://kalebers.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-228B22?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio">
+  </a>
 </div>
